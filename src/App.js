@@ -31,7 +31,7 @@ const App = () => {
           borderColor: 'white',
           needleValue: value,
           borderWidth: 2,
-          cutout: '92%',
+          cutout: '95%',
           circumference: '180',
           rotation: 270,
           borderRadius: 5,
